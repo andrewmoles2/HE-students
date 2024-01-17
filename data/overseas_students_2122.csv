@@ -1,0 +1,495 @@
+﻿Title,Transnational students studying wholly overseas for a UK higher education qualification by academic year,""
+Location,UK,""
+Academic years,2014/15 to 2021/22,""
+Data source,HESA,""
+Data collection,052,""
+Data source link,https://www.hesa.ac.uk/data-and-analysis/students/chart-5,""
+Data file canonical link,https://www.hesa.ac.uk/data-and-analysis/students/chart-5.csv,""
+Licence,Creative Commons Attribution 4.0 International Licence,""
+Code page,Unicode UTF-8,""
+Disclaimer,Please note that this data includes rounded totals.  Caution must be taken when importing into a pivot table so as not to double count.,""
+"","",""
+Last updated,Jan-23,""
+"","",""
+Academic Year,Country of study,Number
+2014/15,Malaysia,78565
+2014/15,China,56340
+2014/15,Singapore,48520
+2014/15,Pakistan,42525
+2014/15,Nigeria,32410
+2014/15,Hong Kong (Special Administrative Region of China),29705
+2014/15,Oman,18530
+2014/15,Ghana,16920
+2014/15,Egypt,16570
+2014/15,Sri Lanka,16545
+2014/15,United Arab Emirates,15490
+2014/15,Greece,14965
+2014/15,Mauritius,13825
+2014/15,India,13345
+2014/15,Trinidad and Tobago,11945
+2014/15,Ireland,11715
+2014/15,Kenya,11630
+2014/15,Saudi Arabia,8360
+2014/15,Russia,8165
+2014/15,Zambia,7940
+2014/15,Zimbabwe,7870
+2014/15,Bangladesh,7740
+2014/15,Germany,7285
+2014/15,Uganda,7260
+2014/15,Vietnam,7100
+2014/15,South Africa,6890
+2014/15,Kuwait,6875
+2014/15,Switzerland,6155
+2014/15,United States,6010
+2014/15,Cyprus (European Union),5740
+2014/15,Botswana,5560
+2014/15,Canada,5455
+2014/15,Ethiopia,4385
+2014/15,"Spain {includes Ceuta, Melilla}",3820
+2014/15,Uzbekistan,3710
+2014/15,Jamaica,3705
+2014/15,Malawi,3600
+2014/15,Poland,3390
+2014/15,Malta,3375
+2014/15,Romania,3325
+2014/15,Lebanon,3160
+2014/15,Bahrain,3115
+2014/15,Cameroon,3115
+2014/15,Nepal,3090
+2014/15,Australia,2935
+2014/15,Tanzania,2910
+2014/15,Burma,2745
+2014/15,"Italy {Includes Sardinia, Sicily}",2610
+2014/15,Netherlands,2520
+2014/15,France {includes Corsica},2450
+2014/15,Qatar,2280
+2014/15,Czech Republic,1990
+2014/15,Jordan,1920
+2014/15,Belgium,1650
+2014/15,Lesotho,1535
+2014/15,Sierra Leone,1515
+2014/15,Kazakhstan,1320
+2014/15,Japan,1295
+2014/15,Hungary,1255
+2014/15,Cambodia,1220
+2014/15,Denmark,1200
+2014/15,Guyana,1170
+2014/15,Ukraine,1145
+2014/15,Rwanda,1080
+2014/15,Barbados,1070
+2015/16,Malaysia,78850
+2015/16,China,64560
+2015/16,Singapore,49970
+2015/16,Pakistan,46640
+2015/16,Nigeria,35015
+2015/16,Hong Kong (Special Administrative Region of China),29220
+2015/16,Sri Lanka,20910
+2015/16,Egypt,19840
+2015/16,Oman,18940
+2015/16,Ghana,17370
+2015/16,United Arab Emirates,17090
+2015/16,Greece,15835
+2015/16,Mauritius,15175
+2015/16,India,14830
+2015/16,Kenya,12655
+2015/16,Trinidad and Tobago,11880
+2015/16,Ireland,11595
+2015/16,Saudi Arabia,8915
+2015/16,Zimbabwe,8890
+2015/16,Zambia,8260
+2015/16,Uganda,7950
+2015/16,Bangladesh,7950
+2015/16,Kuwait,7590
+2015/16,Russia,7545
+2015/16,Vietnam,7160
+2015/16,Cyprus (European Union),6855
+2015/16,South Africa,6375
+2015/16,United States,6225
+2015/16,Germany,6070
+2015/16,Switzerland,6015
+2015/16,Canada,5515
+2015/16,Botswana,5200
+2015/16,Ethiopia,4495
+2015/16,Uzbekistan,4495
+2015/16,Malawi,3790
+2015/16,Nepal,3735
+2015/16,Jamaica,3720
+2015/16,Malta,3505
+2015/16,Bahrain,3355
+2015/16,Romania,3265
+2015/16,Australia,3255
+2015/16,Burma,3225
+2015/16,"Spain {includes Ceuta, Melilla}",3170
+2015/16,Tanzania,3025
+2015/16,Cameroon,3015
+2015/16,Lebanon,2965
+2015/16,France {includes Corsica},2605
+2015/16,Qatar,2475
+2015/16,"Italy {Includes Sardinia, Sicily}",2380
+2015/16,Poland,2340
+2015/16,Netherlands,2315
+2015/16,Lesotho,2095
+2015/16,Austria,2080
+2015/16,Jordan,1955
+2015/16,Czech Republic,1780
+2015/16,Maldives,1725
+2015/16,Belgium,1615
+2015/16,Sierra Leone,1610
+2015/16,Denmark,1560
+2015/16,Kazakhstan,1420
+2015/16,Guyana,1410
+2015/16,Cambodia,1285
+2015/16,Barbados,1180
+2015/16,Ukraine,1135
+2015/16,Japan,1110
+2015/16,Rwanda,1030
+2016/17,Malaysia,74180
+2016/17,China,69855
+2016/17,Singapore,48290
+2016/17,Pakistan,43870
+2016/17,Nigeria,32925
+2016/17,Hong Kong (Special Administrative Region of China),27390
+2016/17,Sri Lanka,24480
+2016/17,Egypt,21695
+2016/17,Oman,21025
+2016/17,United Arab Emirates,17140
+2016/17,India,16985
+2016/17,Greece,16595
+2016/17,Ghana,16485
+2016/17,Mauritius,15480
+2016/17,Kenya,12475
+2016/17,Ireland,12035
+2016/17,Trinidad and Tobago,11255
+2016/17,Saudi Arabia,9630
+2016/17,Zimbabwe,9410
+2016/17,Uganda,8155
+2016/17,Kuwait,8150
+2016/17,Bangladesh,7795
+2016/17,Cyprus (European Union),7460
+2016/17,Zambia,7235
+2016/17,Russia,6835
+2016/17,Vietnam,6790
+2016/17,United States,6585
+2016/17,Germany,6570
+2016/17,Switzerland,6380
+2016/17,South Africa,6030
+2016/17,Canada,5545
+2016/17,Uzbekistan,5285
+2016/17,Botswana,4865
+2016/17,Ethiopia,4600
+2016/17,Nepal,4235
+2016/17,"Spain {includes Ceuta, Melilla}",4190
+2016/17,Burma,3775
+2016/17,Malta,3660
+2016/17,Malawi,3515
+2016/17,Jamaica,3500
+2016/17,Bahrain,3425
+2016/17,Australia,3145
+2016/17,Romania,2955
+2016/17,Tanzania,2825
+2016/17,Cameroon,2755
+2016/17,Qatar,2755
+2016/17,Lebanon,2750
+2016/17,Austria,2540
+2016/17,France {includes Corsica},2480
+2016/17,"Italy {Includes Sardinia, Sicily}",2360
+2016/17,Maldives,2245
+2016/17,Netherlands,2205
+2016/17,Lesotho,2180
+2016/17,Jordan,2030
+2016/17,Poland,1990
+2016/17,Hungary,1655
+2016/17,Sierra Leone,1595
+2016/17,Denmark,1580
+2016/17,Belgium,1540
+2016/17,Czech Republic,1535
+2016/17,Kazakhstan,1425
+2016/17,Guyana,1415
+2016/17,Barbados,1205
+2016/17,Cambodia,1145
+2016/17,Ukraine,1120
+2016/17,Japan,1100
+2017/18,China,75925
+2017/18,Malaysia,72480
+2017/18,Singapore,44805
+2017/18,Pakistan,40210
+2017/18,Nigeria,29865
+2017/18,Sri Lanka,27450
+2017/18,Hong Kong (Special Administrative Region of China),25675
+2017/18,Egypt,20480
+2017/18,Oman,20355
+2017/18,United Arab Emirates,17510
+2017/18,Greece,17410
+2017/18,India,17050
+2017/18,Ghana,15315
+2017/18,Mauritius,15240
+2017/18,Kenya,11745
+2017/18,Ireland,11610
+2017/18,Cyprus (European Union),9865
+2017/18,Zimbabwe,9480
+2017/18,Saudi Arabia,9465
+2017/18,Trinidad and Tobago,9450
+2017/18,Uganda,7935
+2017/18,Bangladesh,7290
+2017/18,Germany,7255
+2017/18,United States,6850
+2017/18,Kuwait,6845
+2017/18,Russia,6655
+2017/18,Switzerland,6605
+2017/18,Zambia,6395
+2017/18,Vietnam,6285
+2017/18,South Africa,6135
+2017/18,Uzbekistan,5860
+2017/18,Canada,5225
+2017/18,Nepal,4310
+2017/18,Botswana,4295
+2017/18,Ethiopia,4270
+2017/18,Burma,4130
+2017/18,"Spain {includes Ceuta, Melilla}",4030
+2017/18,Malta,3590
+2017/18,Bahrain,3405
+2017/18,Malawi,3115
+2017/18,Jamaica,3115
+2017/18,Australia,2950
+2017/18,Romania,2705
+2017/18,Austria,2655
+2017/18,France {includes Corsica},2630
+2017/18,Maldives,2575
+2017/18,Qatar,2530
+2017/18,Tanzania,2480
+2017/18,"Italy {Includes Sardinia, Sicily}",2450
+2017/18,Cameroon,2435
+2017/18,Lebanon,2420
+2017/18,Netherlands,2235
+2017/18,Lesotho,2135
+2017/18,Poland,1835
+2017/18,Jordan,1675
+2017/18,Czech Republic,1530
+2017/18,Hungary,1510
+2017/18,Belgium,1505
+2017/18,Sierra Leone,1440
+2017/18,Denmark,1420
+2017/18,Kazakhstan,1415
+2017/18,Guyana,1375
+2017/18,Barbados,1145
+2017/18,Cambodia,1080
+2017/18,Japan,1025
+2017/18,Ukraine,1010
+2018/19,China,78175
+2018/19,Malaysia,68290
+2018/19,Singapore,41540
+2018/19,Pakistan,35845
+2018/19,Sri Lanka,28315
+2018/19,Nigeria,25420
+2018/19,Hong Kong (Special Administrative Region of China),24680
+2018/19,Egypt,20280
+2018/19,Oman,18445
+2018/19,Greece,18315
+2018/19,United Arab Emirates,16720
+2018/19,India,16550
+2018/19,Mauritius,14285
+2018/19,Ghana,13785
+2018/19,Cyprus (European Union),13565
+2018/19,Ireland,10660
+2018/19,Kenya,10175
+2018/19,Zimbabwe,8980
+2018/19,Saudi Arabia,8430
+2018/19,Trinidad and Tobago,8045
+2018/19,Germany,7240
+2018/19,Uganda,7140
+2018/19,United States,6995
+2018/19,Bangladesh,6720
+2018/19,Switzerland,6650
+2018/19,Kuwait,6650
+2018/19,Vietnam,6540
+2018/19,Nepal,6505
+2018/19,Russia,6225
+2018/19,South Africa,6005
+2018/19,Uzbekistan,5795
+2018/19,Zambia,5335
+2018/19,Canada,4955
+2018/19,Burma,4490
+2018/19,"Spain {includes Ceuta, Melilla}",4390
+2018/19,Botswana,3880
+2018/19,Ethiopia,3645
+2018/19,Malta,3540
+2018/19,Bahrain,3505
+2018/19,Austria,2905
+2018/19,Malawi,2820
+2018/19,Australia,2795
+2018/19,France {includes Corsica},2770
+2018/19,Maldives,2735
+2018/19,Jamaica,2715
+2018/19,Qatar,2625
+2018/19,"Italy {Includes Sardinia, Sicily}",2425
+2018/19,Romania,2320
+2018/19,Netherlands,2235
+2018/19,Tanzania,2215
+2018/19,Cameroon,2040
+2018/19,Lebanon,2040
+2018/19,Lesotho,2020
+2018/19,Jordan,1920
+2018/19,Hungary,1610
+2018/19,Poland,1605
+2018/19,Belgium,1565
+2018/19,Guyana,1510
+2018/19,Czech Republic,1350
+2018/19,Kazakhstan,1300
+2018/19,Denmark,1295
+2018/19,Sierra Leone,1225
+2018/19,Japan,1105
+2018/19,Barbados,1000
+2019/20,China,48965
+2019/20,Malaysia,47175
+2019/20,Sri Lanka,29910
+2019/20,Singapore,26075
+2019/20,Hong Kong (Special Administrative Region of China),20840
+2019/20,Egypt,19270
+2019/20,Greece,18875
+2019/20,Oman,16845
+2019/20,United Arab Emirates,14475
+2019/20,Cyprus (European Union),11185
+2019/20,Germany,9000
+2019/20,Saudi Arabia,8930
+2019/20,India,7950
+2019/20,Kuwait,7340
+2019/20,Pakistan,7265
+2019/20,Switzerland,7235
+2019/20,Nepal,7195
+2019/20,United States,6575
+2019/20,Uzbekistan,5810
+2019/20,Ireland,5675
+2019/20,Trinidad and Tobago,4755
+2019/20,South Africa,4650
+2019/20,Canada,4650
+2019/20,"Spain {includes Ceuta, Melilla}",4460
+2019/20,Nigeria,4145
+2019/20,Vietnam,3725
+2019/20,Ghana,3510
+2019/20,Austria,3145
+2019/20,Myanmar (Burma),3085
+2019/20,France {includes Corsica},2940
+2019/20,Russia,2830
+2019/20,Mauritius,2800
+2019/20,Qatar,2790
+2019/20,Bahrain,2710
+2019/20,"Italy {Includes Sardinia, Sicily}",2275
+2019/20,Netherlands,2145
+2019/20,Bangladesh,2045
+2019/20,Australia,1995
+2019/20,Hungary,1965
+2019/20,Jordan,1930
+2019/20,Malta,1920
+2019/20,Maldives,1905
+2019/20,Kenya,1850
+2019/20,Lebanon,1715
+2019/20,Belgium,1665
+2019/20,Botswana,1615
+2019/20,Denmark,1390
+2019/20,Uganda,1125
+2019/20,Zambia,1045
+2019/20,Japan,1040
+2020/21,China,60495
+2020/21,Malaysia,46920
+2020/21,Sri Lanka,35960
+2020/21,Singapore,26290
+2020/21,Egypt,23280
+2020/21,Hong Kong (Special Administrative Region of China),21240
+2020/21,Greece,20380
+2020/21,United Arab Emirates,16160
+2020/21,Oman,14985
+2020/21,Saudi Arabia,14140
+2020/21,Germany,11270
+2020/21,Kuwait,10250
+2020/21,Cyprus (European Union),9845
+2020/21,Nepal,9515
+2020/21,India,8520
+2020/21,Pakistan,8465
+2020/21,United States,8070
+2020/21,Uzbekistan,7830
+2020/21,Switzerland,7715
+2020/21,Ireland,6640
+2020/21,Nigeria,5515
+2020/21,Canada,5490
+2020/21,Trinidad and Tobago,5230
+2020/21,Vietnam,5115
+2020/21,South Africa,5095
+2020/21,"Spain {includes Ceuta, Melilla}",4685
+2020/21,Bahrain,3550
+2020/21,Ghana,3505
+2020/21,Qatar,3415
+2020/21,Austria,3290
+2020/21,Mauritius,3210
+2020/21,France {includes Corsica},3125
+2020/21,Russia,2975
+2020/21,"Italy {Includes Sardinia, Sicily}",2605
+2020/21,Malta,2400
+2020/21,Netherlands,2360
+2020/21,Bangladesh,2295
+2020/21,Kenya,2290
+2020/21,Lebanon,2260
+2020/21,Australia,2195
+2020/21,Jordan,2160
+2020/21,Myanmar (Burma),2140
+2020/21,Maldives,1940
+2020/21,Botswana,1925
+2020/21,Hungary,1725
+2020/21,Belgium,1575
+2020/21,Denmark,1480
+2020/21,Uganda,1405
+2020/21,Japan,1395
+2020/21,Jamaica,1095
+2020/21,Thailand,1050
+2020/21,Zimbabwe,1010
+2021/22,China,71210
+2021/22,Malaysia,47460
+2021/22,Sri Lanka,45990
+2021/22,Singapore,28175
+2021/22,Egypt,23840
+2021/22,Greece,22455
+2021/22,Hong Kong (Special Administrative Region of China),20785
+2021/22,United Arab Emirates,18315
+2021/22,Saudi Arabia,16715
+2021/22,Oman,14545
+2021/22,Germany,12695
+2021/22,India,12190
+2021/22,Nepal,10700
+2021/22,Cyprus (European Union),10520
+2021/22,Kuwait,10380
+2021/22,Pakistan,10065
+2021/22,Uzbekistan,8620
+2021/22,United States,7815
+2021/22,Switzerland,7710
+2021/22,Vietnam,7140
+2021/22,Ireland,6885
+2021/22,Nigeria,5785
+2021/22,Trinidad and Tobago,5645
+2021/22,South Africa,5565
+2021/22,Canada,5510
+2021/22,"Spain {includes Ceuta, Melilla}",4955
+2021/22,Bahrain,3885
+2021/22,Austria,3775
+2021/22,Qatar,3770
+2021/22,Mauritius,3165
+2021/22,France {includes Corsica},3055
+2021/22,Russia,3055
+2021/22,Ghana,3035
+2021/22,Lebanon,2600
+2021/22,"Italy {Includes Sardinia, Sicily}",2565
+2021/22,Kenya,2515
+2021/22,Netherlands,2400
+2021/22,Malta,2350
+2021/22,Bangladesh,2270
+2021/22,Jordan,2260
+2021/22,Australia,2035
+2021/22,Botswana,1960
+2021/22,Maldives,1830
+2021/22,Myanmar (Burma),1725
+2021/22,Belgium,1630
+2021/22,Denmark,1595
+2021/22,Hungary,1480
+2021/22,Japan,1465
+2021/22,Uganda,1440
+2021/22,Zimbabwe,1145
+2021/22,Jamaica,1100
+2021/22,Thailand,1085
