@@ -1,15 +1,57 @@
 library(tidyverse)
 library(ggtext)
+library(ggchicklet)
 
 location_14 <- read_csv("data/location/he_student_loc_1415.csv", skip = 14)
+location_15 <- read_csv("data/location/he_student_loc_1516.csv", skip = 14)
+location_16 <- read_csv("data/location/he_student_loc_1617.csv", skip = 14)
+location_17 <- read_csv("data/location/he_student_loc_1718.csv", skip = 14)
+location_18 <- read_csv("data/location/he_student_loc_1819.csv", skip = 14)
+location_19 <- read_csv("data/location/he_student_loc_1920.csv", skip = 14)
+location_20 <- read_csv("data/location/he_student_loc_2021.csv", skip = 14)
 location_21 <- read_csv("data/location/he_student_loc_2122.csv", skip = 14)
-
 
 l14_long <- location_14 %>%
   pivot_longer(cols = !c(UKPRN, `HE Provider`),
                names_to = "student_from",
                values_to = "n_students") %>%
   mutate(academic_year = "14/15")
+
+l15_long <- location_15 %>%
+  pivot_longer(cols = !c(UKPRN, `HE Provider`),
+               names_to = "student_from",
+               values_to = "n_students") %>%
+  mutate(academic_year = "15/16")
+
+l16_long <- location_16 %>%
+  pivot_longer(cols = !c(UKPRN, `HE Provider`),
+               names_to = "student_from",
+               values_to = "n_students") %>%
+  mutate(academic_year = "16/17")
+
+l17_long <- location_17 %>%
+  pivot_longer(cols = !c(UKPRN, `HE Provider`),
+               names_to = "student_from",
+               values_to = "n_students") %>%
+  mutate(academic_year = "17/18")
+
+l18_long <- location_18 %>%
+  pivot_longer(cols = !c(UKPRN, `HE Provider`),
+               names_to = "student_from",
+               values_to = "n_students") %>%
+  mutate(academic_year = "18/19")
+
+l19_long <- location_19 %>%
+  pivot_longer(cols = !c(UKPRN, `HE Provider`),
+               names_to = "student_from",
+               values_to = "n_students") %>%
+  mutate(academic_year = "19/20")
+
+l20_long <- location_20 %>%
+  pivot_longer(cols = !c(UKPRN, `HE Provider`),
+               names_to = "student_from",
+               values_to = "n_students") %>%
+  mutate(academic_year = "20/21")
 
 l21_long <- location_21 %>%
   pivot_longer(cols = !c(UKPRN, `HE Provider`),
@@ -158,3 +200,42 @@ write_csv(home_df, "data/home_loc_14_22.csv")
 home_bind <- home_bind %>%
   mutate(perc_home = perc_home/100)
 write_csv(home_bind, "data/home_loc_14_22_clean.csv")
+
+
+# looking at LSE - london students over the years
+students_from_all <- dplyr::bind_rows(list(l14_long, l15_long, l16_long,
+                                           l17_long, l18_long, l19_long,
+                                           l20_long, l21_long))
+
+lse <- students_from_all %>%
+  janitor::clean_names() %>%
+  filter(he_provider == "London School of Economics and Political Science") %>%
+  filter(student_from %in% c("Greater London", "Total")) %>%
+  select(-ukprn)
+
+pal <- c("#d64740", "#42CFD7")
+names(pal) <- c("Greater London", "Total")
+
+lse_title <- glue::glue(
+  "Frequency of LSE students from 2014-2022 who are<br>from <span style = 'color:{pal['Greater London']}'>Greater London</span> compared to the <span style = 'color:{pal['Total']}'>Total</span> students"
+  )
+
+(lse_plot <- lse |>
+  ggplot(aes(x = academic_year, y = n_students, fill = student_from)) +
+  ggchicklet::geom_chicklet(position = "dodge") +
+  scale_fill_manual(values = pal) +
+  labs(title = lse_title,
+       x = "", y = "Number of students") +
+  coord_flip() +
+  theme_minimal(base_family = "Avenir", base_size = 16) +
+  guides(fill = "none") +
+  theme(
+    plot.title.position = "plot",
+    plot.title = element_markdown(),
+    plot.subtitle = element_markdown()
+  ))
+
+ggsave(filename = "outputs/lse_london.png", lse_plot, device = ragg::agg_png,
+       dpi = 300, width = 9.5, height = 9, bg = "#F2F1F6")
+
+

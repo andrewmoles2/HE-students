@@ -15,3 +15,7 @@ Extracted data was cleaned using R, mostly using the `tidyverse` set of packages
 ![](https://github.com/andrewmoles2/HE-students/blob/main/outputs/home_uni.png)
 
 The visual is also made with Tableau and is viewable on [Tableau Public](https://public.tableau.com/views/HigherEducationStudentData/sametowncityHEStudents?:language=en-GB&:display_count=n&:origin=viz_share_link). A Tableau file is also available in this repository. 
+
+### LSE Students - how many come from London compared to the total numbers per year?
+
+![](https://github.com/andrewmoles2/HE-students/blob/main/outputs/lse_london.png)
